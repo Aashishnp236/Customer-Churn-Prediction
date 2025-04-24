@@ -32,7 +32,9 @@ Recall
 ROC-AUC
 
 Credits
+
 This project was developed by Aashish Tharu Gamuwa.
+
 Feel free to fork the repository, suggest improvements, or contribute!
 
 Thank You ✔️
